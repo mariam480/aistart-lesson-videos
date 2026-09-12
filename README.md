@@ -15,3 +15,5 @@ Use a tag (e.g. `@v1`) rather than `@main` for a stable, cache-consistent URL.
 - `grade6/module4/starter.mp4` — G6 M4 Session 1 "What Makes It Interactive?" starter video (960×540, with audio).
 - `grade8/module1/g8-m1-s1-sc04-ai-around-you.mp4` — G8 M1 Session 1 scene 04 (with audio).
 - `grade8/module1/g8-m1-s1-sc21-xray-them.mp4` — G8 M1 Session 1 scene 21 (with audio).
+- `grade6/module3/hook-ai-mystery.mp4` — G6 M3 Session 1 hook (with audio).
+- `grade6/module3/how-ai-gets-started.mp4` — G6 M3 Session 1 (with audio).
