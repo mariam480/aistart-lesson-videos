@@ -1,0 +1,26 @@
+# aiSTART lesson videos
+
+Externally-hosted video assets for aiSTART lessons, served via the jsDelivr CDN so
+they can be referenced from self-contained lesson decks (which cannot bundle large video).
+
+Path convention: `gradeN/moduleM/<name>.mp4`
+
+## Serving a file (jsDelivr)
+```
+https://cdn.jsdelivr.net/gh/mariam480/aistart-lesson-videos@<tag>/gradeN/moduleM/<name>.mp4
+```
+Use a tag (e.g. `@v1`) rather than `@main` for a stable, cache-consistent URL.
+
+## Contents
+- `grade6/module4/starter.mp4` — G6 M4 Session 1 "What Makes It Interactive?" starter video (960×540, with audio).
+- `grade8/module1/g8-m1-s1-sc04-ai-around-you.mp4` — G8 M1 Session 1 scene 04 (with audio).
+- `grade8/module1/g8-m1-s1-sc21-xray-them.mp4` — G8 M1 Session 1 scene 21 (with audio).
+- `grade6/module3/hook-ai-mystery.mp4` — G6 M3 Session 1 hook (with audio).
+- `grade6/module3/how-ai-gets-started.mp4` — G6 M3 Session 1 (with audio).
+- `grade6/module6/s1-what-if-2050.mp4` — G6 M6 "Sustainable Planet" Session 1 "WHAT IF…?" Earth 2050 (1280×720, narration baked in).
+- `grade6/module6/s2-greenhouse-effect.mp4` — G6 M6 Session 2 "How does it work?" greenhouse effect, 6 chapters (1280×720, narration baked in).
+- `grade6/module6/s3-bleaching-step1.mp4` … `s3-bleaching-step4.mp4` — G6 M6 Session 3 "Why do corals turn white?", one silent clip per step (1024×576).
+- `grade6/module6/s3-world-without-reefs.mp4` — G6 M6 Session 3 "A world without reefs" (1280×720, narration baked in).
+- `grade6/module6/s4-elikias-book.mp4` — G6 M6 Session 4 "Elikia's book", pop-up book history of deforestation (1280×720, narration baked in).
+- `grade6/module6/s4-phytoplankton.mp4` — G6 M6 Session 4 phytoplankton crash course (1280×720, narration baked in).
+- `grade6/module6/s5-ocean-gyres.mp4` — G6 M6 Session 5 "Why there?" ocean currents and gyres (1280×720, narration baked in).
