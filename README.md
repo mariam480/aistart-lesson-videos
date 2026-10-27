@@ -17,3 +17,7 @@ Use a tag (e.g. `@v1`) rather than `@main` for a stable, cache-consistent URL.
 - `grade8/module1/g8-m1-s1-sc21-xray-them.mp4` — G8 M1 Session 1 scene 21 (with audio).
 - `grade6/module3/hook-ai-mystery.mp4` — G6 M3 Session 1 hook (with audio).
 - `grade6/module3/how-ai-gets-started.mp4` — G6 M3 Session 1 (with audio).
+- `grade6/module6/s1-what-if-2050.mp4` — G6 M6 "Sustainable Planet" Session 1 "WHAT IF…?" Earth 2050 (1280×720, narration baked in).
+- `grade6/module6/s2-greenhouse-effect.mp4` — G6 M6 Session 2 "How does it work?" greenhouse effect, 6 chapters (1280×720, narration baked in).
+- `grade6/module6/s3-bleaching-step1.mp4` … `s3-bleaching-step4.mp4` — G6 M6 Session 3 "Why do corals turn white?", one silent clip per step (1024×576).
+- `grade6/module6/s3-world-without-reefs.mp4` — G6 M6 Session 3 "A world without reefs" (1280×720, narration baked in).
