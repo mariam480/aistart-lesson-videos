@@ -25,3 +25,5 @@ Use a tag (e.g. `@v1`) rather than `@main` for a stable, cache-consistent URL.
 - `grade6/module6/s4-phytoplankton.mp4` — G6 M6 Session 4 phytoplankton crash course (1280×720, narration baked in).
 - `grade6/module6/s5-ocean-gyres.mp4` — G6 M6 Session 5 "Why there?" ocean currents and gyres (1280×720, narration baked in).
 - `grade6/module6/s6-ai-footprint.mp4` — G6 M6 Session 6 "Even AI?" AI energy and water use in data centres (1280×720, narration baked in).
+- `grade8/module1/m1-slide-flip-turn.mp4` — G8 M1 Lesson 1.1 "Slide, Flip, Turn" transformations explainer (1280×720, narration baked in).
+- `grade8/module1/m1-congruent-figures.mp4` — G8 M1 Lesson 1.5 "Congruent Figures" quilt explainer (1280×720, narration baked in).
